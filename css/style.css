@@ -16,3 +16,15 @@ body {
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+.navbar-nav .nav-link {
+    color: white !important;
+}
+
+.signout button {
+    color: white !important;
+    background-color: rgb(230, 78, 78) !important;
+    padding: 1px;
+}
+
+@media ::before {}
